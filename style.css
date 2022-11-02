@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
+
+
+
+.carousel-item{
+    height: 65vh;
+    width: 100%;
+}
+.carousel-item img{
+    height: 197vh;
+    width: 50px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    padding: 13px 12px;
+}
+.contaner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 96vh;
+ /* margin-left: 20px; */
+}
+/* .card-img-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.card{
+    margin: 1.0rem;
+    display: flex;
+    flex-direction: column;
+    text-decoration-color: rgb(174, 103, 10);
+}
+.card-img-top{
+    height: 10.23rem;
+}
+.featurette-image{
+    margin: 15px;
+
+}
+.habib{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Poor Story', cursive;
+}
+.row-featurette{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 26px 189px;
+}
+.footer{
+    margin: 50px;
+}
+.float-right{
+    margin: 10px;
+}
+.contanerh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+form{
+    width: 55vh;
+}
+.h5{
+    font-size: 2.25rem;
+}
+.form-group{
+    width: 100vh;
+}
+h2{
+    margin-right: 175px;
+}
